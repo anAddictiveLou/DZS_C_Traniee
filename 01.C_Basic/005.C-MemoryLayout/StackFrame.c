@@ -1,14 +1,15 @@
 #include <stdio.h>
 
-void a(int i)
+int test(int a, int b, int c, int d, int e, int f, int g, int h, int i)
 {
-    if (i > 0) {
-        a(--i);
-    } else {
-        printf("i has reached to zero\n ");
-    }
+    //int a2 = 0x555577;
+    return 1;
 }
 
-int main() {
-    a(1);
+int main(int argc, char *argv[])
+{
+    test(0x1, 0x2, 0x3, 0x4, 0x5, 0x6, 0x7, 0x8, 0x9);
+    return 1;
 }
+
+// compile with gcc stack.c -o stack

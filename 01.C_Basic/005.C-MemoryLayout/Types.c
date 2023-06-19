@@ -31,5 +31,6 @@ int main(int argc, char *argv[]) /* Allocated in frame for main() */
     char *p;                    /* Allocated in frame for main() */
     p = malloc(1024);           /* Points to memory in heap segment */
     doCalc(key);
+    char* p2 = (char*)calloc(2048, sizeof(char)); 
     exit(EXIT_SUCCESS);
 }
