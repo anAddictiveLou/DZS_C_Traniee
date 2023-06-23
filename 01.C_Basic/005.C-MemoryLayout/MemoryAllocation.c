@@ -14,7 +14,6 @@ int main()
     //     printf("Undefined behavior\n");
     //     printf("%d\n", *p);
     // }
-
     free(p);
     free(p);
 
