@@ -1,4 +1,0 @@
-= Start
-@ ./a.out:[0x55e9d27aa1cc] + 0x55e9d3197690 0x28
-@ ./a.out:[0x55e9d27aa216] - 0x55e9d3197690
-= End

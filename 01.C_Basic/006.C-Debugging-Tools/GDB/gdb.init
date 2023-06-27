@@ -1,4 +1,5 @@
 define setup
+    target remote 192.168.59.131:2001
     tui enable
     break main
     info break

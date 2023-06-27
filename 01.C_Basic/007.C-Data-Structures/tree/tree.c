@@ -125,3 +125,8 @@ int get_min_value_in_bst(BST* bst)
 
     return get_min_value_in_bst_using_bst_root(bst->BSTroot);
 }
+
+int get_height_of_bst(BST* bst)
+{
+    if ()
+}
