@@ -1,0 +1,7 @@
+define setup
+    tui enable
+    break main
+    info break
+    winheight cmd +8
+    run
+end
