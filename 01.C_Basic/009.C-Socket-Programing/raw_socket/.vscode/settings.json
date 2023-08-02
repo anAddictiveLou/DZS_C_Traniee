@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "ping.h": "c",
+        "in_systm.h": "c",
+        "ip_icmp.h": "c"
+    }
+}

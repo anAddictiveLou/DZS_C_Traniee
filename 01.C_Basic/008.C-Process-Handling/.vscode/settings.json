@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "cstdlib": "c",
+        "cstdio": "c",
+        "stat.h": "c",
+        "shm.h": "c",
+        "mman.h": "c",
+        "string.h": "c",
+        "unistd.h": "c",
+        "queue.h": "c",
+        "stdlib.h": "c"
+    }
+}

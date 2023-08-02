@@ -13,14 +13,19 @@ typedef struct BSTNode{
 
 typedef struct {
     BSTNode* BSTroot;
-    int height;
 } BST;
 
 BST* create_bst(void);
 void insert_to_bst(BST* bst, int val);
+void remove_from_bst(BST* bst, int val);
 bool search_in_bst(BST* bst, int val);
 int get_max_value_in_bst(BST* bst);
 int get_min_value_in_bst(BST* bst);
-int get_height_of_bst(BST* bst);
+void show_bst(BST* bst);
+void show_bst_using_level_order_strategy(BST* bst);
+void print_BST(struct BSTNode* root, int isRight, int offset);
+void free_bst(BST* bst);
+
+void top_view(BST* bst);
 
 #endif
