@@ -1,0 +1,33 @@
+{
+    "files.associations": {
+        "any": "c",
+        "array": "c",
+        "charconv": "c",
+        "chrono": "c",
+        "compare": "c",
+        "functional": "c",
+        "istream": "c",
+        "memory_resource": "c",
+        "ostream": "c",
+        "ranges": "c",
+        "ratio": "c",
+        "scoped_allocator": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "variant": "c",
+        "stdbool.h": "c",
+        "tree.h": "c",
+        "stat.h": "c",
+        "types.h": "c",
+        "deque": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "span": "cpp",
+        "sh.h": "c",
+        "typeindex": "c",
+        "typeinfo": "c"
+    }
+}

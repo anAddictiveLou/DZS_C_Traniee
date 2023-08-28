@@ -1,0 +1,9 @@
+total 52
+drwxr-xr-x 3 root root  4096 Aug 21 16:47 .
+drwxr-xr-x 3 root root  4096 Aug 16 17:25 ..
+drwxr-xr-x 2 root root  4096 Aug 17 11:56 .vscode
+-rw-r--r-- 1 root root    37 Aug 17 15:50 Makefile
+---------- 1 root root     0 Aug 21 16:47 out
+-rwxr-xr-x 1 root root 22736 Aug 21 16:46 sh
+-rw-r--r-- 1 root root  4863 Aug 21 16:46 sh.c
+-rw-r--r-- 1 root root   666 Aug 20 23:42 sh.h
